@@ -1,5 +1,5 @@
 # Back_up-Folder
-*Software Enginering in SUSY, Weihong Lin*
+*Software Enginering in SYSU, Weihong Lin*
 
 A simple program helps back-up the folder，change it into zip，and place it in specific place.
 
